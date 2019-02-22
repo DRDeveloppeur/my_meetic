@@ -1,0 +1,74 @@
+body {
+  background: #f5f5f5;
+}
+
+.logo {
+  margin-bottom: 50%;
+}
+
+.insc {
+  margin-top: 5%;
+  padding: 3%;
+  box-shadow:  5px 5px 5px Darkgray;
+}
+
+.filter {
+  display: none;
+  align-content: center;
+  border-bottom: 1px solid Darkgray;
+  margin: 0 auto 2em;
+  width: 100%;
+}
+
+.profils > ul > label {
+  display: none;
+}
+
+.inputch {
+  display: flex;
+}
+
+.in {
+  margin-right: 4%;
+  margin-bottom: 1%;
+}
+
+.sn {
+  margin-bottom: 1%;
+}
+
+.profils {
+  display: none;
+  align-content: center;
+  border-bottom: 1px solid Darkgray;
+  margin: 0 auto 2em;
+  width: 100%;
+}
+
+ul {
+  text-align: center;
+  list-style: none;
+}
+
+.controls {
+  margin-top: 4%;
+  padding-top: 4%;
+  border-top: 1px solid Darkgray;
+}
+
+.next {
+   margin-left:70%;
+}
+
+.result {
+  text-align: center;
+  list-style: none;
+}
+/*
+.list {
+  display: inline-grid;
+} */
+
+.list {
+  display: none;
+}

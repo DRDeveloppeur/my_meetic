@@ -1,0 +1,14 @@
+body {
+  background: url('https://storage-dating.euranka.com/uploads/sites/5/2015/06/rencontre-serieuse.jpg') no-repeat;
+  background-size: 100%;
+}
+
+.logo {
+  margin-bottom: 50%;
+}
+
+.insc {
+  margin-top: 5%;
+  padding: 3%;
+  box-shadow:  5px 5px 5px Darkgray;
+}
